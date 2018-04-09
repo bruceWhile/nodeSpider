@@ -4,6 +4,7 @@
 ## install
 
 ```javascript
+git clone https://github.com/bruceWhile/nodeSpider
 npm install
 node index.js
 ```
