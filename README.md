@@ -1,5 +1,13 @@
 # 10分钟使用node js进行网站的爬虫
 ### 使用node js10分钟开始爬虫
+
+## install
+
+```javascript
+npm install
+node index.js
+```
+
 ### 1.使用的主要技术栈
 ------
 
